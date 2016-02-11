@@ -25,7 +25,7 @@ class ViewController: UIViewController {
     @IBOutlet var enemyImageView: UIImageView!
     @IBOutlet var playerImageView: UIImageView!
     
-    @IBOutlet var nenmyHPBar: UIProgressView!
+    @IBOutlet var enemyHPBar: UIProgressView!
     @IBOutlet var playerHPBar: UIProgressView!
     
     @IBOutlet var enemyNameLabel: UILabel!
